@@ -5,47 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4663139f-d858-4b91-a2c6-9873375e8c70" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/database/constants.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/database/queries/CreateArtist.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/database/queries/DeleteArtist.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/database/queries/EditArtist.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/database/queries/FindArtist.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/database/queries/GetAgeRange.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/database/queries/GetYearsActiveRange.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/database/queries/SearchArtists.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/database/queries/SetNotRetired.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/database/queries/SetRetired.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/database/queries/db.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/database/seeds/artist.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/actions/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/actions/types.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/Header.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/Home.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/artists/ArtistCreate.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/artists/ArtistDetail.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/artists/ArtistEdit.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/artists/ArtistFilter.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/artists/ArtistIndex.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/artists/ArtistMain.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/artists/Paginator.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/filters/Picker.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/filters/Range.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/filters/Switch.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/filters/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/reducers/ArtistsReducer.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/reducers/ErrorReducer.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/reducers/FilterCriteriaReducer.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/reducers/SelectionReducer.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/reducers/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/router.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/style/materialize.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/style/react-range.css" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/dist/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/style/style.css" afterPath="$PROJECT_DIR$/style/style.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/index.js" afterPath="$PROJECT_DIR$/src/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webpack.config.js" afterPath="$PROJECT_DIR$/webpack.config.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -98,7 +58,7 @@
         <entry file="file://$PROJECT_DIR$/src/index.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="238">
-              <caret line="14" column="31" lean-forward="false" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+              <caret line="14" column="39" lean-forward="false" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
               <folding>
                 <element signature="e#0#39#0" expanded="true" />
               </folding>
@@ -403,12 +363,12 @@
       <workItem from="1529953418980" duration="279000" />
       <workItem from="1529992453484" duration="34669000" />
       <workItem from="1530076719293" duration="5160000" />
-      <workItem from="1530507127508" duration="3084000" />
+      <workItem from="1530507127508" duration="3357000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48649000" />
+    <option name="totallyTimeSpent" value="48922000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="106" y="127" width="1653" height="894" extended-state="0" />
@@ -674,7 +634,7 @@
     <entry file="file://$PROJECT_DIR$/src/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
-          <caret line="14" column="31" lean-forward="false" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+          <caret line="14" column="39" lean-forward="false" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
           <folding>
             <element signature="e#0#39#0" expanded="true" />
           </folding>

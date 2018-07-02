@@ -12,7 +12,7 @@ class App extends Component {
         return (
             <div className="container">
                 <HeaderBlock/>
-                <h1>Some  sdas TExsdadasdtssdsd</h1>
+                <h1>Some  sdas dasdfsf TExsdadasdtssdsd</h1>
             </div>
         );
     }
