@@ -2,18 +2,18 @@ import React, {Component} from 'react';
 import ReactDOM from 'react-dom';
 import HeaderBlock from './components/Header/HeaderBlock';
 import '../style/style.scss';
-import Popup from './components/Popup';
-import axios from 'axios';
-
+import {BrowserRouter, Route} from 'react-router-dom';
 
 class App extends Component {
 
     render() {
         return (
+            <BrowserRouter>
             <div className="container">
                 <HeaderBlock/>
-                <h1>Some  sdas dasdfsf TExsdadasdtssdsd</h1>
+                <h1>Some TExsdadasdtssdsd</h1>
             </div>
+            </BrowserRouter>
         );
     }
 
